@@ -1,0 +1,9 @@
+
+{
+    "require": {
+        "headzoo/bitcoin-wallet-api" : "dev-master",
+        "monolog/monolog": "1.0.*"
+                    
+    }
+
+}
